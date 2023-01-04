@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Scuola/SUPSI/secondo anno/Linguaggi procedurali/linguaggioCAnno2SUPSI",
-      "program": "c:/Scuola/SUPSI/secondo anno/Linguaggi procedurali/linguaggioCAnno2SUPSI/build/Debug/outDebug",
+      "cwd": "c:/Users/Sostene/Documents/Scuola/linguaggioCAnno2SUPSI",
+      "program": "c:/Users/Sostene/Documents/Scuola/linguaggioCAnno2SUPSI/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
